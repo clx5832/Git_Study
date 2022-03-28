@@ -14,5 +14,8 @@ public class GitTest {
         System.out.println("This is Third Git Test");
         System.out.println("This is five Git Test merge(hot-fix)");
         System.out.println("This is five Git Test merge(hot-fix)Test push");
+        System.out.println("This is five Git Test merge(hot-fix)Test pull");
     }
+    
 }
+
